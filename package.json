@@ -1,0 +1,19 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkamal8/weatherapp.git"
+  },
+  "author": "raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkamal8/weatherapp/issues"
+  },
+  "homepage": "https://github.com/rajkamal8/weatherapp#readme"
+}
